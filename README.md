@@ -14,11 +14,18 @@ If you use the materials from this repositiory, please refer to our paper.
                Ross Maciejewski and
                Vetle I. Torvik and
                Jingrui He},
+  editor    = {Aidong Zhang and
+               Huzefa Rangwala},
   title     = {Meta-Learned Metrics over Multi-Evolution Temporal Graphs},
   booktitle = {{KDD} '22: The 28th {ACM} {SIGKDD} Conference on Knowledge Discovery
                and Data Mining, Washington, DC, USA, August 14 - 18, 2022},
   pages     = {367--377},
   publisher = {{ACM}},
-  year      = {2022}
+  year      = {2022},
+  url       = {https://doi.org/10.1145/3534678.3539313},
+  doi       = {10.1145/3534678.3539313},
+  timestamp = {Mon, 15 Aug 2022 14:53:46 +0200},
+  biburl    = {https://dblp.org/rec/conf/kdd/FuFMTH22.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
