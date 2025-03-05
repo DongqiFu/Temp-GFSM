@@ -1,6 +1,6 @@
 # Temp-GFSM: Meta-Learned Metrics over Multi-Evolution Temporal Graphs
 
-This repository is for the KDD' 2022 paper "Meta-Learned Metrics over Multi-Evolution Temporal Graphs" ([Link](https://dongqifu.github.io/publications/Temp-GFSM.pdf)) .
+This repository is for the KDD' 2022 paper "Meta-Learned Metrics over Multi-Evolution Temporal Graphs" ([paper](https://dongqifu.github.io/assets/pdf/Temp-GFSM.pdf)) .
 
 ## Functionality
 Temp-GFSM first models temporal graphs for multiple dynamic evolution pattern, then it learns the accurate and adaptive metrics over them via the representation learning techniques.
