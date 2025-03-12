@@ -6,7 +6,7 @@ This repository is for the KDD' 2022 paper "Meta-Learned Metrics over Multi-Evol
 Temp-GFSM first models temporal graphs for multiple dynamic evolution pattern, then it learns the accurate and adaptive metrics over them via the representation learning techniques.
 
 ## Reference
-If you use the materials from this repositiory, please refer to our paper.
+If you use the materials from this repository, please refer to our paper.
 ```
 @inproceedings{DBLP:conf/kdd/FuFMTH22,
   author    = {Dongqi Fu and
